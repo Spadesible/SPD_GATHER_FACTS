@@ -1,0 +1,6 @@
+--- # -*- mode: yaml; coding: utf-8 -*-
+- hosts: localhost
+  gather_facts: true
+  tasks:
+   name: Trying out
+   roles: gfact
